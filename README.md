@@ -1,7 +1,7 @@
 # clients-card
 Demonstration using firemonkey library
 
-This project is a lesson by QuarckCube Youtube Channel.
+This project is a lesson by QuarkCube Youtube Channel.
 
 ![](client-card.gif)
 
